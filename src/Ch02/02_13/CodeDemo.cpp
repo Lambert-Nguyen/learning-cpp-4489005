@@ -9,6 +9,12 @@ int main(){
     float result; 
 
     // Write your code here
+    int sum =0;
+    for (int val : nums){
+        sum+=val;
+        std::cout << val <<std::endl;
+    }
+    result = sum/5;
     
     std::cout << "The average is " << result << std::endl;
     
