@@ -26,8 +26,10 @@ int main(){
 
     // Calculate the GPA for the selected student.
     // Write your code here
+    float totalPoints = 0.0f;
+    int numCredits = 0;
 
-     
+    GPA = 
     
 
     std::string student_str;
