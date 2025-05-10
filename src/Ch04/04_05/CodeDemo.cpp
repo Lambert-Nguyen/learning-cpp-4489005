@@ -29,7 +29,7 @@ int main(){
     float totalPoints = 0.0f;
     int numCredits = 0;
 
-    GPA = 
+    GPA = totalPoints/numCredits;
     
 
     std::string student_str;
